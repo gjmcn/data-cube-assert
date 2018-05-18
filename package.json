@@ -1,0 +1,19 @@
+{
+  "name": "data-cube-assert",
+  "version": "0.1.0",
+  "description": "Assert functions for DataCube tests.",
+  "main": "assert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gjmcn/data-cube-assert.git"
+  },
+  "author": "Graham McNeill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gjmcn/data-cube-assert/issues"
+  },
+  "homepage": "https://github.com/gjmcn/data-cube-assert#readme"
+}
