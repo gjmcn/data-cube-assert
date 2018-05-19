@@ -2,9 +2,10 @@
   "name": "data-cube-assert",
   "version": "0.1.0",
   "description": "Assert functions for DataCube tests.",
-  "main": "assert.js",
+  "main": "dist/assert.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/gjmcn/data-cube-assert/issues"
   },
-  "homepage": "https://github.com/gjmcn/data-cube-assert#readme"
+  "homepage": "https://github.com/gjmcn/data-cube-assert#readme",
+  "devDependencies": {
+    "rollup": "^0.59.1",
+    "rollup-plugin-commonjs": "^9.1.3",
+    "rollup-plugin-uglify": "^3.0.0"
+  }
 }
