@@ -1,7 +1,7 @@
 {
   "name": "data-cube-assert",
   "version": "0.1.0",
-  "description": "Assert functions for DataCube tests.",
+  "description": "Assert functions for Data-Cube tests.",
   "main": "dist/assert.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

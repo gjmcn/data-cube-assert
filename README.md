@@ -1,1 +1,1 @@
-Assert functions for DataCube tests.
+Assert functions for Data-Cube tests.
