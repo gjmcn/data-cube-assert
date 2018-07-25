@@ -1,5 +1,5 @@
 {
-  "name": "data-cube-assert",
+  "name": "@gjmcn/data-cube-assert",
   "version": "0.1.0",
   "description": "Assert functions for Data-Cube tests.",
   "main": "dist/assert.js",
